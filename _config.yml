@@ -13,16 +13,16 @@ theme: minima
 # Other configurations
 markdown: kramdown
 
-# Custom CSS
-plugins:
-  - jekyll-remote-theme # add this line
-remote_theme: "pages-themes/minimal@v0.2.0"
+# # Custom CSS
+# plugins:
+#   - jekyll-remote-theme # add this line
+# remote_theme: "pages-themes/minimal@v0.2.0"
 
 include:
   - assets
 
-sass:
-  style: compressed
+# sass:
+#   style: compressed
 
 # Other configurations
 
