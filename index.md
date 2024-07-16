@@ -2,6 +2,8 @@
 layout: home
 ---
 
+<link rel="stylesheet" href="/assets/styles.css">
+
 ![My Picture](profile.jpg)
 
 ## About Me
