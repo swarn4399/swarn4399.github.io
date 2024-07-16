@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -13,6 +13,32 @@
   </header>
 
   <main>
+    {{ content }}
+  </main>
+
+  {% include footer.html %}
+</body>
+</html> -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | escape }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+  {{ content_for_header }}
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrapper">
+      <img src="/profile.jpg" alt="My Picture" class="profile-picture">
+      <h1>{{ site.title | escape }}</h1>
+      <p class="site-description">{{ site.description | escape }}</p>
+    </div>
+  </header>
+
+  <main class="page-content">
     {{ content }}
   </main>
 
