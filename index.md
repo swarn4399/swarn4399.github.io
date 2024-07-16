@@ -43,8 +43,3 @@ A short bio about yourself. Enthusiastic developer with a passion for coding and
 - News Item 3
 <!-- Add more news items as needed -->
 
-## Contact Details
-
-- Email: [swarnabha4399@gmail.com](mailto:swarnabha4399@gmail.com)
-- Phone: (352) 888-9084
-- Address: Tampa, FL, USA
