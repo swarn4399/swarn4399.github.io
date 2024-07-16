@@ -2,7 +2,7 @@
 # email: swarnabha4399@gmail.com
 # description: >- # this means to ignore newlines until "baseurl:"
 #   A short bio about yourself. Enthusiastic developer with a passion for coding and problem-solving.
-# baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://swarn4399.github.io" # the base hostname & protocol for your site
 # twitter_username: yourusername
 github_username:  swarn4399
