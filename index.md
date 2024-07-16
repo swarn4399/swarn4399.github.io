@@ -10,11 +10,26 @@ layout: home
 
 A short bio about yourself. Enthusiastic developer with a passion for coding and problem-solving.
 
-## Experience
+<!-- ## Experience
 
 - **Data Scientist** at Elutions Inc - June 2023 - Present
-- **Graduate Research Assistant** at University of Florida - July 2022 - May 2023
+- **Graduate Research Assistant** at University of Florida - July 2022 - May 2023 -->
 <!-- Add more experiences as needed -->
+
+## Experience
+
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-item-content">
+      <span class="tag">Elutions Inc</span>
+      <span class="time">June 2023 - Present</span>
+      <h3>Data Scientist</h3>
+      <p>Responsible for analyzing complex datasets and providing insights to drive business decisions.</p>
+    </div>
+  </div>
+  
+  <!-- Add more timeline items as needed -->
+</div>
 
 ## Education
 
