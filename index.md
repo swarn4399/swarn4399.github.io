@@ -2,9 +2,9 @@
 layout: home
 ---
 
-<link rel="stylesheet" href="/assets/styles.css">
+<link rel="stylesheet" href="/assets/css/styles.css">
 
-![My Picture](profile.jpg)
+![My Picture](profile.jpg){: .profile-picture }
 
 ## About Me
 

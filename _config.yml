@@ -7,11 +7,22 @@ url: "https://swarn4399.github.io" # the base hostname & protocol for your site
 # twitter_username: yourusername
 github_username:  swarn4399
 
+# _config.yml
 theme: minima
 
-# Build settings
+# Other configurations
 markdown: kramdown
 
-assets:
-  css: "assets/styles.css"
+# Custom CSS
+plugins:
+  - jekyll-remote-theme # add this line
+remote_theme: "pages-themes/minimal@v0.2.0"
+
+include:
+  - assets
+
+sass:
+  style: compressed
+
+# Other configurations
 
