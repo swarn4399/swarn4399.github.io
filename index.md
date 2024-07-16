@@ -12,14 +12,14 @@ A short bio about yourself. Enthusiastic developer with a passion for coding and
 
 ## Experience
 
-- **Data Scientist** at Elutions Inc - Dates
-- **Graduate Research Assistant** at University of Florida - Dates
+- **Data Scientist** at Elutions Inc - June 2023 - Present
+- **Graduate Research Assistant** at University of Florida - July 2022 - May 2023
 <!-- Add more experiences as needed -->
 
 ## Education
 
-- **MS** in Computer Science from University of Florida, FL, USA - Dates
-- **BTech** in Computer Science & Engineering from Maulana Abul Kalam Azad University of Technology, WB, IND - Dates
+- **MS** in Computer Science from University of Florida, FL, USA - August 2021 - May 2023
+- **BTech** in Computer Science & Engineering from Maulana Abul Kalam Azad University of Technology, WB, IND - August 2017 - July 2021
 <!-- Add more education details as needed -->
 
 ## Skills
