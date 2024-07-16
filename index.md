@@ -8,7 +8,7 @@ layout: home
 
 ## About Me
 
-A short bio about yourself. Enthusiastic developer with a passion for coding and problem-solving.
+Enthusiastic developer with a passion for coding and problem-solving.
 
 ## Experience
 
@@ -24,21 +24,20 @@ A short bio about yourself. Enthusiastic developer with a passion for coding and
 
 ## Skills
 
-- Skill 1
-- Skill 2
-- Skill 3
+- Data Science
+- Machine Learning
+- Software Engineering
 <!-- Add more skills as needed -->
 
 ## Awards and Achievements
 
-- Herbert Wertheim College of Engineering Achievement Award Scholarship
+- Herbert Wertheim College of Engineering Achievement Award Scholarship - 2021,2022
+- Director's Choice Award for Best Student Contribution - 2021
 <!-- Add more awards as needed -->
 
 ## News
-
-## News
 - [2024-06-01] Yay! 1 year of working as a Data Scientist at Elutions!
-- [2023-06-01] Starting a new job as a Data Scientist at Elutions Inc.
+- [2023-06-01] Started a new job as a Data Scientist at Elutions Inc.
 - [2023-05-09] Graduated from UF with an M.S. in Computer Science.
 - [2021-08-23] Started grad school at the University of Florida.
 - [2021-07-22] Graduated from MAKAUT with a B.Tech. in Computer Science & Engineering.
