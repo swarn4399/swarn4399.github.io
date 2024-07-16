@@ -11,3 +11,7 @@ theme: minima
 
 # Build settings
 markdown: kramdown
+
+assets:
+  css: "assets/styles.css"
+
