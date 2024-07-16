@@ -12,14 +12,14 @@ A short bio about yourself. Enthusiastic developer with a passion for coding and
 
 ## Experience
 
-- **Job Title** at Company - Dates
-- **Job Title** at Company - Dates
+- **Data Scientist** at Elutions Inc - Dates
+- **Graduate Research Assistant** at University of Florida - Dates
 <!-- Add more experiences as needed -->
 
 ## Education
 
-- **Degree** in Field of Study from University - Dates
-- **Degree** in Field of Study from University - Dates
+- **MS** in Computer Science from University of Florida, FL, USA - Dates
+- **BTech** in Computer Science & Engineering from Maulana Abul Kalam Azad University of Technology, WB, IND - Dates
 <!-- Add more education details as needed -->
 
 ## Skills
@@ -46,5 +46,5 @@ A short bio about yourself. Enthusiastic developer with a passion for coding and
 ## Contact Details
 
 - Email: [swarnabha4399@gmail.com](mailto:swarnabha4399@gmail.com)
-- Phone: (123) 456-7890
-- Address: Your Address Here
+- Phone: (352) 888-9084
+- Address: Tampa, FL, USA
