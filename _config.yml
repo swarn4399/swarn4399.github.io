@@ -1,5 +1,8 @@
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://swarn4399.github.io" # the base hostname & protocol for your site
+header_pages:
+  - index.md
+  - hire-me.md
 # twitter_username: yourusername
 github_username:  swarn4399
 
