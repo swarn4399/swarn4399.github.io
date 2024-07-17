@@ -5,3 +5,8 @@
     display: block;
     margin: 0 auto; /* Center the image */
 }
+
+/* Custom CSS to justify text */
+.justify-text {
+    text-align: justify;
+  }
