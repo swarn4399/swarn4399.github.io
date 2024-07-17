@@ -38,13 +38,17 @@ Applied and Trustowrthy Machine Learning, Differential Privacy, Multimodal Learn
 <!-- Add more awards as needed -->
 
 ## Projects
-- **** 
-**[Can Machine Unlearning protect Membership Privacy?](https://drive.google.com/file/d/1hzSzECo8OVPmuPr7eULXIzg80e-QhenG/view)**
+
+- **[Stock Market Prediction using Tweet Sentiment Analysis](https://drive.google.com/file/d/1mxvaPBi2B3Paa5V7zYRPUKxyobDqsJWz/view)**
 <!-- - **Skills/Tools Used**: Skill 1, Tool 2, etc. -->
 
-Devised and deployed an image classification model, and applied machine unlearning using SISA. Validated how Posterior MIA reduces attack accuracy from 85% to 52% with an advantage of 0.05
+Built a sentiment analysis model (VADER) to extract meaningful features from the tweet data. Predicted closing price of stocks taking into account tweet sentiments in addition to analyzing previous trends.
 
-<!-- - **Project 2**: Description of the project -->
+- **[Can Machine Unlearning protect Membership Privacy?](https://drive.google.com/file/d/1hzSzECo8OVPmuPr7eULXIzg80e-QhenG/view)**
+<!-- - **Skills/Tools Used**: Skill 1, Tool 2, etc. -->
+
+Devised and deployed an image classification model, and applied machine unlearning using SISA. Validated how Posterior MIA reduces attack accuracy from 85% to 52% with an advantage of 0.05.
+
 <!-- Add more projects as needed -->
 
 <!-- ## Publications
