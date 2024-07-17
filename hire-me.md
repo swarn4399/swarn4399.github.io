@@ -20,11 +20,15 @@ I am always on the lookout for exciting opportunities to contribute to innovativ
 - **BTech** in Computer Science & Engineering from Maulana Abul Kalam Azad University of Technology, WB, IND - August 2017 - July 2021
 <!-- Add more education details as needed -->
 
+## Areas of Interest
+
+Applied and Trustowrthy Machine Learning, Differential Privacy, Multimodal Learning, Data Science, Statistical Analysis, Software Engineering
+<!-- Add more skills as needed -->
+
 ## Skills
 
-- Data Science
-- Machine Learning
-- Software Engineering
+- **Languages**: Python, Java, C++, SQL
+- **Tools**: GCP, AWS, Git, PowerBI, Tableau, Hadoop, Spark, Docker, MLflow, ZenML
 <!-- Add more skills as needed -->
 
 ## Awards and Achievements
@@ -34,11 +38,16 @@ I am always on the lookout for exciting opportunities to contribute to innovativ
 <!-- Add more awards as needed -->
 
 ## Projects
-- **Project 1**: Description of the project
-- **Project 2**: Description of the project
+- **Can Machine Unlearning protect Membership Privacy?** 
+<!-- - **Skills/Tools Used**: Skill 1, Tool 2, etc. -->
+- **Report**: [https://drive.google.com/file/d/1hzSzECo8OVPmuPr7eULXIzg80e-QhenG/view](#)
+
+Devised and deployed an image classification model, and applied machine unlearning using SISA. Validated how Posterior MIA reduces attack accuracy from 85% to 52% with an advantage of 0.05
+
+<!-- - **Project 2**: Description of the project -->
 <!-- Add more projects as needed -->
 
-## Publications
+<!-- ## Publications
 - **Publication 1**: Description of the publication
-- **Publication 2**: Description of the publication
+- **Publication 2**: Description of the publication -->
 <!-- Add more publications as needed -->
