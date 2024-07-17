@@ -5,9 +5,8 @@ permalink: /hire-me/
 ---
 
 ## Let's go!
-<div class="justify-text">
+
 I am always on the lookout for exciting opportunities to contribute to innovative projects and tackle challenges across diverse fields. If you have a role for me or are seeking a dedicated collaborator with an insatiable thirst for knowledge and a passion for building a smarter, better world, please reach out. Together, we can create a data-driven future that's both thrilling and impactful!
-</div>
 
 ## Experience
 
