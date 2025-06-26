@@ -5,6 +5,7 @@ permalink: /news/
 ---
 
 ## News
+- [2025-06-01] Yay! 2 years of working as a Data Scientist at Elutions!
 - [2024-06-01] Yay! 1 year of working as a Data Scientist at Elutions!
 - [2023-06-01] Started a new job as a Data Scientist at Elutions Inc.
 - [2023-05-09] Graduated from UF with an M.S. in Computer Science.
